@@ -57,7 +57,7 @@ if (day === 'Thursday') {
 
 var days = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'];
 
-// console.log('index 0: ' + days[0]);
+ console.log('index 0: ' + days[0]);
 // console.log('index 1: ' + days[1]);
 // console.log('index 2: ' + days[2]);
 // console.log('index 6: ' + days[6]);
